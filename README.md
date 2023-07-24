@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on, what is collaborate???
 - 📫 How to reach me , just come my home
 
+<br><p align="center"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Sydxyz}/count.svg"/></p> 
+
 <p align="center">
 <img src="https://github-stats-alpha.vercel.app/api/?username=Sydxyz&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
