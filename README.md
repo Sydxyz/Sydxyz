@@ -3,6 +3,11 @@
 - 🌱 I’m currently learning uscholll
 - 💞️ I’m looking to collaborate on, what is collaborate???
 - 📫 How to reach me , just come my home
+
+<p align="center">
+<img src="https://github-stats-alpha.vercel.app/api/?username=Sydxyz&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+</p>
+
 <p align="center">&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sydxyz&&show_icons=true&theme=midnight-purple" alt="Mr-SyD"/></p>        
  
